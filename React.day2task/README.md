@@ -5,3 +5,7 @@
 
 4. Used Array of objects for the data to display in a loop - Map method is used and to create dynamic elements by separate functional components
 5. Passed data i.e array of objects using map, per element to a child component to render DOM structure using component import and variable.
+
+
+
+# Netlify :https://app.netlify.com/sites/samplepricecard/configuration/general
