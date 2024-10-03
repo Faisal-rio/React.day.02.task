@@ -26,6 +26,10 @@ You can view the live demo of the application here: [Price Card Demo](https://sa
 
 To run this project locally, follow these steps:
 
+cd React.day2task
+
+npm install
+
 1. Clone the repository:
 
    ```bash
